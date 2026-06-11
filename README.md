@@ -12,7 +12,7 @@
 ---
 
 ## 🎥 Vídeos de Demonstração (YouTube)
-* **Vídeo Apresentação Principal (Fases 1 a 7 - Max 10 min):** `[INSIRA O LINK DO YOUTUBE AQUI]`
+* **Vídeo Apresentação Principal (Fases 1 a 7 - Max 10 min):** (https://youtu.be/dhV74sEumUE)
 * **Vídeo Apresentação "Ir Além" (Algoritmo Genético - Max 5 min):** `[INSIRA O LINK DO YOUTUBE AQUI]`
 
 ---
